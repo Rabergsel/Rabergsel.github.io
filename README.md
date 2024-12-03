@@ -5,7 +5,7 @@ Hi.
   
 ## I am Raphael
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&width=700&lines=...and+I+am+a+cat+lover;...and+I+am+an+IT+student+from+Austria;...and+I+am+a+chess+player;...and+I+know+a+thing+or+two+about+C%23;...and+I+turn+coffee+into+bugs;...meow)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=...and+I+am+a+cat+lover;...and+I+am+an+IT+student+from+Austria;...and+I+am+chess+player;..." alt="Typing SVG" /></a>
 
 </div>
 
