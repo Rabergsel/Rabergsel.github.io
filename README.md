@@ -1,9 +1,16 @@
 # 💫 About Me:
 
 <div align="center">
+
 Hi.
   
 ## I am Raphael
+  
+</div>
+
+
+<div align="center">
+
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=...and+I+am+a+cat+lover;...and+I+am+an+IT+student+from+Austria;...and+I+am+chess+player;...and+I+love+C%23;...and+i+did+a+Lichess+API+Wrapper;...meow;...and+I+am+a+fire+fighter;...and+I+am+a+mechatronics+engineer;...and+I+love+prime+numbers" alt="Typing SVG" /></a>
 
